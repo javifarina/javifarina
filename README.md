@@ -1,4 +1,4 @@
-### Hola. me llamo Francisco Javier Fariña👋
+### Hola. soy  Francisco Javier Fariña👋
 
 Curso React JS 
 ### `Desarrollo de E-commers ventas de Artículos para Mascotas`
